@@ -1,3 +1,4 @@
+#made by mopidy-spotify-web
 *.egg-info
 *.orig
 *.pyc
